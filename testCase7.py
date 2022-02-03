@@ -1,3 +1,5 @@
+#test case 7: Queries are getting performed successfully for Delhi,IN
+
 import requests
 
 from pprint import pprint

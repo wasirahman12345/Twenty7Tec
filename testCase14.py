@@ -1,3 +1,5 @@
+#test case 14: Queries are displaying temp, humidity, description, temp min, and temp max
+
 import requests
 
 from pprint import pprint
